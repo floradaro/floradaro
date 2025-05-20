@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Florencia ✨
 
-Bienvenid@ a mi perfil de GitHub. Soy desarrolladora de software apasionada por la tecnología, la moda y los animales.
+Bienvenid@ a mi perfil de GitHub. Soy estudiante de Desarrollo de Software, apasionada por la tecnología, la moda y los animales.
 
 ## 🔭 Actualmente estoy trabajando en...
 - Proyecto Competencia Digitales: Proyecto realizado para la Universidad Nacional de Cuyo, donde se evaluan las competencias digitales de los usuarios.
@@ -18,4 +18,6 @@ Bienvenid@ a mi perfil de GitHub. Soy desarrolladora de software apasionada por 
 - Email: flor.adaro@gmail.com
 - LinkedIn: floradaro
 
-## ⚡ Dato curioso: Me gusta coser, tejer y hacer manualidades. 
+## ⚡ Dato curioso: 
+- Me gusta coser, tejer y hacer manualidades.
+- Disfruto de los karaokes
